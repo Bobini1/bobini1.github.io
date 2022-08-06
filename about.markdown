@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is Tomasz, I'm a software developer and CS student from Poland.
+My main interest is C++ but I like to experiment so you can expect some posts about Python or Clojure as well!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In general, I'm going to post about the things that I'm learning while working on my projects and my design decisions.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My current endeavour is coding a rhythm game in C++ so most posts are going to be about that journey.
