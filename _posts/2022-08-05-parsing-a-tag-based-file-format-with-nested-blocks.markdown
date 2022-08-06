@@ -320,6 +320,7 @@ For convenience, the outer block of the tree (the "root") is treated as an `#IF`
 
 I must say that solving these problems was very challenging but also quite rewarding.
 It's a decent base that I can use for further development, despite being a bit rough around the edges still.
+Undeniably, the parser is crazy fast and I should be able to extend it without any issues. PEGTL seems to have been a good choice.
 
 The problem of calculating time offsets remains - it may be difficult with all the degrees of freedom
 (the BPM can change anytime, the meter can change almost any time, the time subdivisions inside measures can be anything).
